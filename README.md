@@ -1,2 +1,2 @@
 # JDND
-Public repository for the Java Developer Nanodegree program.
+Udacity Java Developer Nanodegree program projects starter code with my own implementation.
